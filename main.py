@@ -1,4 +1,3 @@
-#import cv
 from flask import Flask, render_template, request, jsonify
 import aiml
 import os
